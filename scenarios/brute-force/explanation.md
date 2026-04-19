@@ -19,12 +19,6 @@ To validate detection of failed authentication attempts using Wazuh.
 
 ---
 
-## Evidence
-
-![Brute Force](screenshots/brute-force.png)
-
----
-
 ## Analysis
 
 The logs show repeated failed login attempts with "unknown user" and "bad password".
