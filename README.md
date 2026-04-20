@@ -150,9 +150,9 @@ Detailed documentation is available under the `docs/` directory:
 
 - Architecture → `docs/architecture.md`
 - Setup → `docs/setup.md`
-- Configuration → `docs/configuration.md`
 - Detections → `docs/detections.md`
-- Troubleshooting → `docs/troubleshooting.md`
+- scenarions
+
 
 ---
 
