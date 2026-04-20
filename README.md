@@ -131,17 +131,6 @@ Each event was analyzed using a structured SOC workflow:
 
 ---
 
-## Example Detection
-
-### Brute Force Detection
-
-![Brute Force](scenarios/brute-force/screenshots/brute-force.png)
-
-### Persistence Detection
-
-![Persistence](scenarios/persistence/screenshots/persistence-evidence.png)
-
----
 
 ## Configurations
 
